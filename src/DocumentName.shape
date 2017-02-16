@@ -2,8 +2,8 @@
   {
     "type": "shape_designer.figure.PolyRect",
     "id": "9badd5e5-542f-7694-60bd-de63fcb6a5a3",
-    "x": 200,
-    "y": 100,
+    "x": 92,
+    "y": 52,
     "width": 98,
     "height": 40,
     "alpha": 1,
@@ -22,20 +22,20 @@
     "dasharray": null,
     "vertices": [
       {
-        "x": 200,
-        "y": 100
+        "x": 92,
+        "y": 52
       },
       {
-        "x": 298,
-        "y": 100
+        "x": 190,
+        "y": 52
       },
       {
-        "x": 298,
-        "y": 140
+        "x": 190,
+        "y": 92
       },
       {
-        "x": 200,
-        "y": 140
+        "x": 92,
+        "y": 92
       }
     ],
     "blur": 0,
@@ -57,9 +57,9 @@
   {
     "type": "shape_designer.figure.ExtLabel",
     "id": "d9c018e3-0af5-3a50-ab9d-afc6bd852bfd",
-    "x": 220.890625,
-    "y": 106,
-    "width": 28.890625,
+    "x": 113.890625,
+    "y": 59,
+    "width": 37.328125,
     "height": 21.328125,
     "alpha": 1,
     "angle": 0,
